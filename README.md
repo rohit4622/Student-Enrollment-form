@@ -3,8 +3,8 @@ It is a student registration form that stores the user's data in JSONPowerDB. It
 # Features
 * Simple to Use
 * Fast Response
-Detailed User Interface
+* Detailed User Interface
 
 # Tech Stack
-Client: HTML,CSS,Javascript
-Server: JsonPowerDB
+* Client: HTML,CSS,Javascript
+* Server: JsonPowerDB
